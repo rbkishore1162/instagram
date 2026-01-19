@@ -8,7 +8,7 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Hello Devops!");
         System.out.println("Hello Tiggers!");
-         System.out.println("Tiggers is successfull!");
+         System.out.println("Tiggers is successfull!")
 
 
     }
